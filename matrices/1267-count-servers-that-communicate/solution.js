@@ -21,3 +21,4 @@ var countServers = function (grid) {
   }
   return count;
 };
+
